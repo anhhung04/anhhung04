@@ -7,37 +7,12 @@
 </div>
 
 ## About Me
-- 🔒 Passionate about Web Exploitation, DevSecOps and Cyber Security
-- 🌱 Always learning and exploring new technologies
-- 💡 Open to collaborating on security and DevOps projects
-
-## Connect with me
-<div align="left">
-  <a href="https://github.com/anhhung04">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a>
-</div>
-
-## 🧰 Tech Stack
-
-### Languages & Frameworks
-<p>
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
-
-### Tools & Technologies
-<p>
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-</p>
+- 🔒 Passionate about Web Exploitation, Red Team Operations, DevSecOps, and Cyber Security
+- 🛠 Focused on developing and improving red team tools, and reviewing source code for security weaknesses
+- 🌱 Continuously learning and exploring new offensive security techniques and technologies
+- 💡 Open to collaborating on security, red teaming, and DevOps/DevSecOps projects
 
 ## ⚡ GitHub Stats ⚡
-
 <div align="center">
   <a href="https://github.com/anhhung04">
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=anhhung04&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
