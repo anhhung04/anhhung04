@@ -7,10 +7,10 @@
 </div>
 
 ## About Me
-- 🔒 Passionate about Web Exploitation, Red Team Operations, DevSecOps, and Cyber Security
+- 🔒 Passionate about Web Exploitation, Red Team Operations
 - 🛠 Focused on developing and improving red team tools, and reviewing source code for security weaknesses
 - 🌱 Continuously learning and exploring new offensive security techniques and technologies
-- 💡 Open to collaborating on security, red teaming, and DevOps/DevSecOps projects
+- 💡 Open to collaborating on security, red teaming projects
 
 ## ⚡ GitHub Stats ⚡
 <div align="center">
