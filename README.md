@@ -14,16 +14,5 @@
 
 ## ⚡ GitHub Stats ⚡
 <div align="center">
-  <a href="https://github.com/anhhung04">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=anhhung04&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anhhung04">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhhung04&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
-
-<div align="center">
-  <h4>
-    <a href="https://github.com/anhhung04?tab=repositories">🔎 Show More Repositories 🔍</a>
-  </h4>
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&fontFamily=&preferLogin=false">    <img  alt="anhhung04's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/anhhung04?cardType=level&fontFamily=&preferLogin=false" />  </a>
 </div>
